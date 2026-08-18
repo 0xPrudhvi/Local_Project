@@ -17,3 +17,9 @@ git branch -M <your branch name>
 
 <!-- to create a new branch-->
 git checkout -b <new branch name>
+
+<!-- to delete a branch-->
+git checkout -d <branch name>
+
+<!-- to switch a branch-->
+git checkout <branch name>
