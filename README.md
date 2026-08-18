@@ -26,4 +26,8 @@ git checkout <branch name> <br>
 
 
 <!-- to pull the changes from one brnach to another branch -->
-git pull origin <branch name you want to pull>
+git pull origin <branch name you want to pull> <br>
+
+<!--merging one branch with another-->
+git merge <branch name> <br>
+
