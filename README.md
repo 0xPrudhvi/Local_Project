@@ -14,3 +14,6 @@ git branch
 
 <!--to rename the existing branch-->
 git branch -M <your branch name>
+
+<!-- to create a new branch-->
+git checkout -b <new branch name>
